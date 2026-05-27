@@ -34,7 +34,7 @@
 "total": 1,
 "chunk_info": {
  "geom1_line_approx_chunk1.tsv": {
- "bytes":    11863,
+ "bytes":    11662,
 "rows": 200 
 } 
 } 
@@ -81,8 +81,8 @@
 "total": 1,
 "chunk_info": {
  "geom2_path_approx_chunk1.tsv": {
- "bytes":   308923,
-"rows": 6387 
+ "bytes":   386673,
+"rows": 8121 
 } 
 } 
 },
@@ -131,8 +131,8 @@
 "total": 1,
 "chunk_info": {
  "geom3_point_approx_chunk1.tsv": {
- "bytes":   423908,
-"rows": 6387 
+ "bytes":   532870,
+"rows": 8121 
 } 
 } 
 },
@@ -181,7 +181,7 @@
 "total": 1,
 "chunk_info": {
  "geom4_point_approx_chunk1.tsv": {
- "bytes":   162537,
+ "bytes":   160058,
 "rows": 2478 
 } 
 } 
@@ -399,635 +399,635 @@
 "total": 157,
 "chunk_info": {
  "geom5_path_approx_chunk_common.tsv": {
- "bytes":       57,
+ "bytes":       55,
 "rows": 1 
 },
 "geom5_path_approx_chunk1.tsv": {
- "bytes":   108797,
+ "bytes":   106396,
 "rows": 2400 
 },
 "geom5_path_approx_chunk2.tsv": {
- "bytes":    92099,
+ "bytes":    90098,
 "rows": 2000 
 },
 "geom5_path_approx_chunk3.tsv": {
- "bytes":   160309,
+ "bytes":   156708,
 "rows": 3600 
 },
 "geom5_path_approx_chunk4.tsv": {
- "bytes":   129779,
+ "bytes":   126978,
 "rows": 2800 
 },
 "geom5_path_approx_chunk5.tsv": {
- "bytes":   109493,
+ "bytes":   107092,
 "rows": 2400 
 },
 "geom5_path_approx_chunk6.tsv": {
- "bytes":   109247,
+ "bytes":   106846,
 "rows": 2400 
 },
 "geom5_path_approx_chunk7.tsv": {
- "bytes":    90985,
+ "bytes":    88984,
 "rows": 2000 
 },
 "geom5_path_approx_chunk8.tsv": {
- "bytes":    90885,
+ "bytes":    88884,
 "rows": 2000 
 },
 "geom5_path_approx_chunk9.tsv": {
- "bytes":    90833,
+ "bytes":    88832,
 "rows": 2000 
 },
 "geom5_path_approx_chunk10.tsv": {
- "bytes":    90749,
+ "bytes":    88748,
 "rows": 2000 
 },
 "geom5_path_approx_chunk11.tsv": {
- "bytes":    90735,
+ "bytes":    88734,
 "rows": 2000 
 },
 "geom5_path_approx_chunk12.tsv": {
- "bytes":    72575,
+ "bytes":    70974,
 "rows": 1600 
 },
 "geom5_path_approx_chunk13.tsv": {
- "bytes":    72559,
+ "bytes":    70958,
 "rows": 1600 
 },
 "geom5_path_approx_chunk14.tsv": {
- "bytes":    72559,
+ "bytes":    70958,
 "rows": 1600 
 },
 "geom5_path_approx_chunk15.tsv": {
- "bytes":    72537,
+ "bytes":    70936,
 "rows": 1600 
 },
 "geom5_path_approx_chunk16.tsv": {
- "bytes":    72535,
+ "bytes":    70934,
 "rows": 1600 
 },
 "geom5_path_approx_chunk17.tsv": {
- "bytes":    72553,
+ "bytes":    70952,
 "rows": 1600 
 },
 "geom5_path_approx_chunk18.tsv": {
- "bytes":    72557,
+ "bytes":    70956,
 "rows": 1600 
 },
 "geom5_path_approx_chunk19.tsv": {
- "bytes":    72541,
+ "bytes":    70940,
 "rows": 1600 
 },
 "geom5_path_approx_chunk20.tsv": {
- "bytes":    72581,
+ "bytes":    70980,
 "rows": 1600 
 },
 "geom5_path_approx_chunk21.tsv": {
- "bytes":    90693,
+ "bytes":    88692,
 "rows": 2000 
 },
 "geom5_path_approx_chunk22.tsv": {
- "bytes":    90745,
+ "bytes":    88744,
 "rows": 2000 
 },
 "geom5_path_approx_chunk23.tsv": {
- "bytes":    90769,
+ "bytes":    88768,
 "rows": 2000 
 },
 "geom5_path_approx_chunk24.tsv": {
- "bytes":    90777,
+ "bytes":    88776,
 "rows": 2000 
 },
 "geom5_path_approx_chunk25.tsv": {
- "bytes":    90823,
+ "bytes":    88822,
 "rows": 2000 
 },
 "geom5_path_approx_chunk26.tsv": {
- "bytes":   109057,
+ "bytes":   106656,
 "rows": 2400 
 },
 "geom5_path_approx_chunk27.tsv": {
- "bytes":   127553,
+ "bytes":   124752,
 "rows": 2800 
 },
 "geom5_path_approx_chunk28.tsv": {
- "bytes":   133975,
+ "bytes":   130774,
 "rows": 3200 
 },
 "geom5_path_approx_chunk29.tsv": {
- "bytes":    85207,
+ "bytes":    83206,
 "rows": 2000 
 },
 "geom5_path_approx_chunk30.tsv": {
- "bytes":   102051,
+ "bytes":    99650,
 "rows": 2400 
 },
 "geom5_path_approx_chunk31.tsv": {
- "bytes":    99979,
+ "bytes":    97578,
 "rows": 2400 
 },
 "geom5_path_approx_chunk32.tsv": {
- "bytes":    85225,
+ "bytes":    83224,
 "rows": 2000 
 },
 "geom5_path_approx_chunk33.tsv": {
- "bytes":   104023,
+ "bytes":   101622,
 "rows": 2400 
 },
 "geom5_path_approx_chunk34.tsv": {
- "bytes":   112939,
+ "bytes":   110538,
 "rows": 2400 
 },
 "geom5_path_approx_chunk35.tsv": {
- "bytes":   138635,
+ "bytes":   135434,
 "rows": 3200 
 },
 "geom5_path_approx_chunk36.tsv": {
- "bytes":   110781,
+ "bytes":   108380,
 "rows": 2400 
 },
 "geom5_path_approx_chunk37.tsv": {
- "bytes":   110029,
+ "bytes":   107628,
 "rows": 2400 
 },
 "geom5_path_approx_chunk38.tsv": {
- "bytes":    91547,
+ "bytes":    89546,
 "rows": 2000 
 },
 "geom5_path_approx_chunk39.tsv": {
- "bytes":    91357,
+ "bytes":    89356,
 "rows": 2000 
 },
 "geom5_path_approx_chunk40.tsv": {
- "bytes":    91231,
+ "bytes":    89230,
 "rows": 2000 
 },
 "geom5_path_approx_chunk41.tsv": {
- "bytes":    91131,
+ "bytes":    89130,
 "rows": 2000 
 },
 "geom5_path_approx_chunk42.tsv": {
- "bytes":    91083,
+ "bytes":    89082,
 "rows": 2000 
 },
 "geom5_path_approx_chunk43.tsv": {
- "bytes":    72857,
+ "bytes":    71256,
 "rows": 1600 
 },
 "geom5_path_approx_chunk44.tsv": {
- "bytes":    72835,
+ "bytes":    71234,
 "rows": 1600 
 },
 "geom5_path_approx_chunk45.tsv": {
- "bytes":    72779,
+ "bytes":    71178,
 "rows": 1600 
 },
 "geom5_path_approx_chunk46.tsv": {
- "bytes":    72779,
+ "bytes":    71178,
 "rows": 1600 
 },
 "geom5_path_approx_chunk47.tsv": {
- "bytes":    54595,
+ "bytes":    53394,
 "rows": 1200 
 },
 "geom5_path_approx_chunk48.tsv": {
- "bytes":    72767,
+ "bytes":    71166,
 "rows": 1600 
 },
 "geom5_path_approx_chunk49.tsv": {
- "bytes":    72799,
+ "bytes":    71198,
 "rows": 1600 
 },
 "geom5_path_approx_chunk50.tsv": {
- "bytes":    72825,
+ "bytes":    71224,
 "rows": 1600 
 },
 "geom5_path_approx_chunk51.tsv": {
- "bytes":    72835,
+ "bytes":    71234,
 "rows": 1600 
 },
 "geom5_path_approx_chunk52.tsv": {
- "bytes":    91057,
+ "bytes":    89056,
 "rows": 2000 
 },
 "geom5_path_approx_chunk53.tsv": {
- "bytes":    91101,
+ "bytes":    89100,
 "rows": 2000 
 },
 "geom5_path_approx_chunk54.tsv": {
- "bytes":    91177,
+ "bytes":    89176,
 "rows": 2000 
 },
 "geom5_path_approx_chunk55.tsv": {
- "bytes":    91343,
+ "bytes":    89342,
 "rows": 2000 
 },
 "geom5_path_approx_chunk56.tsv": {
- "bytes":    91499,
+ "bytes":    89498,
 "rows": 2000 
 },
 "geom5_path_approx_chunk57.tsv": {
- "bytes":   109931,
+ "bytes":   107530,
 "rows": 2400 
 },
 "geom5_path_approx_chunk58.tsv": {
- "bytes":   110499,
+ "bytes":   108098,
 "rows": 2400 
 },
 "geom5_path_approx_chunk59.tsv": {
- "bytes":   132257,
+ "bytes":   129456,
 "rows": 2800 
 },
 "geom5_path_approx_chunk60.tsv": {
- "bytes":   128191,
+ "bytes":   125390,
 "rows": 2800 
 },
 "geom5_path_approx_chunk61.tsv": {
- "bytes":   109131,
+ "bytes":   106730,
 "rows": 2400 
 },
 "geom5_path_approx_chunk62.tsv": {
- "bytes":   118597,
+ "bytes":   115796,
 "rows": 2800 
 },
 "geom5_path_approx_chunk63.tsv": {
- "bytes":   100215,
+ "bytes":    97814,
 "rows": 2400 
 },
 "geom5_path_approx_chunk64.tsv": {
- "bytes":   109001,
+ "bytes":   106600,
 "rows": 2400 
 },
 "geom5_path_approx_chunk65.tsv": {
- "bytes":    92107,
+ "bytes":    90106,
 "rows": 2000 
 },
 "geom5_path_approx_chunk66.tsv": {
- "bytes":   110999,
+ "bytes":   108598,
 "rows": 2400 
 },
 "geom5_path_approx_chunk67.tsv": {
- "bytes":   131561,
+ "bytes":   128760,
 "rows": 2800 
 },
 "geom5_path_approx_chunk68.tsv": {
- "bytes":   111669,
+ "bytes":   109268,
 "rows": 2400 
 },
 "geom5_path_approx_chunk69.tsv": {
- "bytes":   111287,
+ "bytes":   108886,
 "rows": 2400 
 },
 "geom5_path_approx_chunk70.tsv": {
- "bytes":    92691,
+ "bytes":    90690,
 "rows": 2000 
 },
 "geom5_path_approx_chunk71.tsv": {
- "bytes":    92525,
+ "bytes":    90524,
 "rows": 2000 
 },
 "geom5_path_approx_chunk72.tsv": {
- "bytes":    92469,
+ "bytes":    90468,
 "rows": 2000 
 },
 "geom5_path_approx_chunk73.tsv": {
- "bytes":    92405,
+ "bytes":    90404,
 "rows": 2000 
 },
 "geom5_path_approx_chunk74.tsv": {
- "bytes":    92315,
+ "bytes":    90314,
 "rows": 2000 
 },
 "geom5_path_approx_chunk75.tsv": {
- "bytes":    73855,
+ "bytes":    72254,
 "rows": 1600 
 },
 "geom5_path_approx_chunk76.tsv": {
- "bytes":    73865,
+ "bytes":    72264,
 "rows": 1600 
 },
 "geom5_path_approx_chunk77.tsv": {
- "bytes":    73821,
+ "bytes":    72220,
 "rows": 1600 
 },
 "geom5_path_approx_chunk78.tsv": {
- "bytes":    73801,
+ "bytes":    72200,
 "rows": 1600 
 },
 "geom5_path_approx_chunk79.tsv": {
- "bytes":    73801,
+ "bytes":    72200,
 "rows": 1600 
 },
 "geom5_path_approx_chunk80.tsv": {
- "bytes":    73807,
+ "bytes":    72206,
 "rows": 1600 
 },
 "geom5_path_approx_chunk81.tsv": {
- "bytes":    73833,
+ "bytes":    72232,
 "rows": 1600 
 },
 "geom5_path_approx_chunk82.tsv": {
- "bytes":    73857,
+ "bytes":    72256,
 "rows": 1600 
 },
 "geom5_path_approx_chunk83.tsv": {
- "bytes":    73877,
+ "bytes":    72276,
 "rows": 1600 
 },
 "geom5_path_approx_chunk84.tsv": {
- "bytes":    92385,
+ "bytes":    90384,
 "rows": 2000 
 },
 "geom5_path_approx_chunk85.tsv": {
- "bytes":    92447,
+ "bytes":    90446,
 "rows": 2000 
 },
 "geom5_path_approx_chunk86.tsv": {
- "bytes":    92531,
+ "bytes":    90530,
 "rows": 2000 
 },
 "geom5_path_approx_chunk87.tsv": {
- "bytes":    92693,
+ "bytes":    90692,
 "rows": 2000 
 },
 "geom5_path_approx_chunk88.tsv": {
- "bytes":   111271,
+ "bytes":   108870,
 "rows": 2400 
 },
 "geom5_path_approx_chunk89.tsv": {
- "bytes":   111657,
+ "bytes":   109256,
 "rows": 2400 
 },
 "geom5_path_approx_chunk90.tsv": {
- "bytes":   131251,
+ "bytes":   128450,
 "rows": 2800 
 },
 "geom5_path_approx_chunk91.tsv": {
- "bytes":   155123,
+ "bytes":   151522,
 "rows": 3600 
 },
 "geom5_path_approx_chunk92.tsv": {
- "bytes":    92281,
+ "bytes":    90280,
 "rows": 2000 
 },
 "geom5_path_approx_chunk93.tsv": {
- "bytes":    90617,
+ "bytes":    88616,
 "rows": 2000 
 },
 "geom5_path_approx_chunk94.tsv": {
- "bytes":   118571,
+ "bytes":   115770,
 "rows": 2800 
 },
 "geom5_path_approx_chunk95.tsv": {
- "bytes":    99821,
+ "bytes":    97420,
 "rows": 2400 
 },
 "geom5_path_approx_chunk96.tsv": {
- "bytes":   127763,
+ "bytes":   124962,
 "rows": 2800 
 },
 "geom5_path_approx_chunk97.tsv": {
- "bytes":   110021,
+ "bytes":   107620,
 "rows": 2400 
 },
 "geom5_path_approx_chunk98.tsv": {
- "bytes":   113121,
+ "bytes":   110720,
 "rows": 2400 
 },
 "geom5_path_approx_chunk99.tsv": {
- "bytes":   110573,
+ "bytes":   108172,
 "rows": 2400 
 },
 "geom5_path_approx_chunk100.tsv": {
- "bytes":   110019,
+ "bytes":   107618,
 "rows": 2400 
 },
 "geom5_path_approx_chunk101.tsv": {
- "bytes":    91527,
+ "bytes":    89526,
 "rows": 2000 
 },
 "geom5_path_approx_chunk102.tsv": {
- "bytes":    91343,
+ "bytes":    89342,
 "rows": 2000 
 },
 "geom5_path_approx_chunk103.tsv": {
- "bytes":    91207,
+ "bytes":    89206,
 "rows": 2000 
 },
 "geom5_path_approx_chunk104.tsv": {
- "bytes":    91135,
+ "bytes":    89134,
 "rows": 2000 
 },
 "geom5_path_approx_chunk105.tsv": {
- "bytes":    91073,
+ "bytes":    89072,
 "rows": 2000 
 },
 "geom5_path_approx_chunk106.tsv": {
- "bytes":    72841,
+ "bytes":    71240,
 "rows": 1600 
 },
 "geom5_path_approx_chunk107.tsv": {
- "bytes":    72827,
+ "bytes":    71226,
 "rows": 1600 
 },
 "geom5_path_approx_chunk108.tsv": {
- "bytes":    72801,
+ "bytes":    71200,
 "rows": 1600 
 },
 "geom5_path_approx_chunk109.tsv": {
- "bytes":    72771,
+ "bytes":    71170,
 "rows": 1600 
 },
 "geom5_path_approx_chunk110.tsv": {
- "bytes":    54585,
+ "bytes":    53384,
 "rows": 1200 
 },
 "geom5_path_approx_chunk111.tsv": {
- "bytes":    72773,
+ "bytes":    71172,
 "rows": 1600 
 },
 "geom5_path_approx_chunk112.tsv": {
- "bytes":    72797,
+ "bytes":    71196,
 "rows": 1600 
 },
 "geom5_path_approx_chunk113.tsv": {
- "bytes":    72789,
+ "bytes":    71188,
 "rows": 1600 
 },
 "geom5_path_approx_chunk114.tsv": {
- "bytes":    72839,
+ "bytes":    71238,
 "rows": 1600 
 },
 "geom5_path_approx_chunk115.tsv": {
- "bytes":    91067,
+ "bytes":    89066,
 "rows": 2000 
 },
 "geom5_path_approx_chunk116.tsv": {
- "bytes":    91147,
+ "bytes":    89146,
 "rows": 2000 
 },
 "geom5_path_approx_chunk117.tsv": {
- "bytes":    91229,
+ "bytes":    89228,
 "rows": 2000 
 },
 "geom5_path_approx_chunk118.tsv": {
- "bytes":    91353,
+ "bytes":    89352,
 "rows": 2000 
 },
 "geom5_path_approx_chunk119.tsv": {
- "bytes":    91537,
+ "bytes":    89536,
 "rows": 2000 
 },
 "geom5_path_approx_chunk120.tsv": {
- "bytes":   110015,
+ "bytes":   107614,
 "rows": 2400 
 },
 "geom5_path_approx_chunk121.tsv": {
- "bytes":   110681,
+ "bytes":   108280,
 "rows": 2400 
 },
 "geom5_path_approx_chunk122.tsv": {
- "bytes":   148737,
+ "bytes":   145536,
 "rows": 3200 
 },
 "geom5_path_approx_chunk123.tsv": {
- "bytes":   112971,
+ "bytes":   110570,
 "rows": 2400 
 },
 "geom5_path_approx_chunk124.tsv": {
- "bytes":   137415,
+ "bytes":   134214,
 "rows": 3200 
 },
 "geom5_path_approx_chunk125.tsv": {
- "bytes":   118955,
+ "bytes":   116154,
 "rows": 2800 
 },
 "geom5_path_approx_chunk126.tsv": {
- "bytes":    83629,
+ "bytes":    81628,
 "rows": 2000 
 },
 "geom5_path_approx_chunk127.tsv": {
- "bytes":    85267,
+ "bytes":    83266,
 "rows": 2000 
 },
 "geom5_path_approx_chunk128.tsv": {
- "bytes":    85189,
+ "bytes":    83188,
 "rows": 2000 
 },
 "geom5_path_approx_chunk129.tsv": {
- "bytes":   149879,
+ "bytes":   146278,
 "rows": 3600 
 },
 "geom5_path_approx_chunk130.tsv": {
- "bytes":   127693,
+ "bytes":   124892,
 "rows": 2800 
 },
 "geom5_path_approx_chunk131.tsv": {
- "bytes":   109089,
+ "bytes":   106688,
 "rows": 2400 
 },
 "geom5_path_approx_chunk132.tsv": {
- "bytes":    90817,
+ "bytes":    88816,
 "rows": 2000 
 },
 "geom5_path_approx_chunk133.tsv": {
- "bytes":    90775,
+ "bytes":    88774,
 "rows": 2000 
 },
 "geom5_path_approx_chunk134.tsv": {
- "bytes":    90757,
+ "bytes":    88756,
 "rows": 2000 
 },
 "geom5_path_approx_chunk135.tsv": {
- "bytes":    90741,
+ "bytes":    88740,
 "rows": 2000 
 },
 "geom5_path_approx_chunk136.tsv": {
- "bytes":    90681,
+ "bytes":    88680,
 "rows": 2000 
 },
 "geom5_path_approx_chunk137.tsv": {
- "bytes":    72591,
+ "bytes":    70990,
 "rows": 1600 
 },
 "geom5_path_approx_chunk138.tsv": {
- "bytes":    72547,
+ "bytes":    70946,
 "rows": 1600 
 },
 "geom5_path_approx_chunk139.tsv": {
- "bytes":    72551,
+ "bytes":    70950,
 "rows": 1600 
 },
 "geom5_path_approx_chunk140.tsv": {
- "bytes":    72565,
+ "bytes":    70964,
 "rows": 1600 
 },
 "geom5_path_approx_chunk141.tsv": {
- "bytes":    72535,
+ "bytes":    70934,
 "rows": 1600 
 },
 "geom5_path_approx_chunk142.tsv": {
- "bytes":    72543,
+ "bytes":    70942,
 "rows": 1600 
 },
 "geom5_path_approx_chunk143.tsv": {
- "bytes":    72573,
+ "bytes":    70972,
 "rows": 1600 
 },
 "geom5_path_approx_chunk144.tsv": {
- "bytes":    72549,
+ "bytes":    70948,
 "rows": 1600 
 },
 "geom5_path_approx_chunk145.tsv": {
- "bytes":    72589,
+ "bytes":    70988,
 "rows": 1600 
 },
 "geom5_path_approx_chunk146.tsv": {
- "bytes":    72611,
+ "bytes":    71010,
 "rows": 1600 
 },
 "geom5_path_approx_chunk147.tsv": {
- "bytes":    90759,
+ "bytes":    88758,
 "rows": 2000 
 },
 "geom5_path_approx_chunk148.tsv": {
- "bytes":    90831,
+ "bytes":    88830,
 "rows": 2000 
 },
 "geom5_path_approx_chunk149.tsv": {
- "bytes":    90897,
+ "bytes":    88896,
 "rows": 2000 
 },
 "geom5_path_approx_chunk150.tsv": {
- "bytes":    90997,
+ "bytes":    88996,
 "rows": 2000 
 },
 "geom5_path_approx_chunk151.tsv": {
- "bytes":   109263,
+ "bytes":   106862,
 "rows": 2400 
 },
 "geom5_path_approx_chunk152.tsv": {
- "bytes":   109515,
+ "bytes":   107114,
 "rows": 2400 
 },
 "geom5_path_approx_chunk153.tsv": {
- "bytes":   146809,
+ "bytes":   143608,
 "rows": 3200 
 },
 "geom5_path_approx_chunk154.tsv": {
- "bytes":   169921,
+ "bytes":   166320,
 "rows": 3600 
 },
 "geom5_path_approx_chunk155.tsv": {
- "bytes":    92063,
+ "bytes":    90062,
 "rows": 2000 
 },
 "geom5_path_approx_chunk156.tsv": {
- "bytes":   102093,
+ "bytes":    99692,
 "rows": 2400 
 },
 "geom5_path_approx_chunk157.tsv": {
- "bytes":   148415,
+ "bytes":   144814,
 "rows": 3600 
 } 
 } 
@@ -1071,7 +1071,7 @@
 "total": 1,
 "chunk_info": {
  "geom6_segment_select_chunk1.tsv": {
- "bytes":     8119,
+ "bytes":     7961,
 "rows": 157 
 } 
 } 
@@ -1116,7 +1116,7 @@
 "total": 1,
 "chunk_info": {
  "geom7_segment_select_chunk1.tsv": {
- "bytes":     8400,
+ "bytes":     8242,
 "rows": 157 
 } 
 } 
@@ -1158,7 +1158,7 @@
 "total": 1,
 "chunk_info": {
  "geom8_point_select_chunk1.tsv": {
- "bytes":     4470,
+ "bytes":     4312,
 "rows": 157 
 } 
 } 
@@ -1200,7 +1200,7 @@
 "total": 1,
 "chunk_info": {
  "geom9_point_select_chunk1.tsv": {
- "bytes":     2121,
+ "bytes":     1963,
 "rows": 157 
 } 
 } 
@@ -1233,7 +1233,7 @@
 "total": 1,
 "chunk_info": {
  "geom10_line_select_chunk1.tsv": {
- "bytes":     7648,
+ "bytes":     7447,
 "rows": 200 
 } 
 } 
@@ -1274,7 +1274,7 @@
 "total": 1,
 "chunk_info": {
  "geom11_point_select_chunk1.tsv": {
- "bytes":     4690,
+ "bytes":     4532,
 "rows": 157 
 } 
 } 
@@ -1314,7 +1314,7 @@
 "total": 1,
 "chunk_info": {
  "geom12_tallrect_select_chunk1.tsv": {
- "bytes":     2842,
+ "bytes":     2684,
 "rows": 157 
 } 
 } 
@@ -1354,7 +1354,7 @@
 "total": 1,
 "chunk_info": {
  "geom13_tallrect_select_chunk1.tsv": {
- "bytes":     2842,
+ "bytes":     2684,
 "rows": 157 
 } 
 } 
@@ -1390,7 +1390,7 @@
 "total": 1,
 "chunk_info": {
  "geom14_path_select_chunk1.tsv": {
- "bytes":     7648,
+ "bytes":     7447,
 "rows": 200 
 } 
 } 
@@ -1439,7 +1439,7 @@
 "total": 1,
 "chunk_info": {
  "geom15_labelaligned_select_chunk1.tsv": {
- "bytes":     8441,
+ "bytes":     8283,
 "rows": 157 
 } 
 } 
@@ -1480,7 +1480,7 @@
 "total": 1,
 "chunk_info": {
  "geom16_point_select_chunk1.tsv": {
- "bytes":     4197,
+ "bytes":     4039,
 "rows": 157 
 } 
 } 
@@ -1518,7 +1518,7 @@
 "total": 1,
 "chunk_info": {
  "geom17_vline_steps_chunk1.tsv": {
- "bytes":    15194,
+ "bytes":    13541,
 "rows": 1652 
 } 
 } 
@@ -1560,7 +1560,7 @@
 "total": 1,
 "chunk_info": {
  "geom18_path_steps_chunk1.tsv": {
- "bytes":    22875,
+ "bytes":    22048,
 "rows": 826 
 } 
 } 
@@ -1599,7 +1599,7 @@
 "total": 1,
 "chunk_info": {
  "geom19_point_steps_chunk1.tsv": {
- "bytes":    22875,
+ "bytes":    22048,
 "rows": 826 
 } 
 } 
@@ -1641,7 +1641,7 @@
 "total": 1,
 "chunk_info": {
  "geom20_path_steps_chunk1.tsv": {
- "bytes":    78577,
+ "bytes":    76098,
 "rows": 2478 
 } 
 } 
@@ -1680,7 +1680,7 @@
 "total": 1,
 "chunk_info": {
  "geom21_point_steps_chunk1.tsv": {
- "bytes":    78577,
+ "bytes":    76098,
 "rows": 2478 
 } 
 } 
@@ -1731,7 +1731,7 @@
 "total": 1,
 "chunk_info": {
  "geom22_tallrect_steps_chunk1.tsv": {
- "bytes":   127759,
+ "bytes":   126300,
 "rows": 1458 
 } 
 } 
@@ -2578,8 +2578,8 @@
 "legend": {},
 "strips": {
  "right": [
- "f'(x)",
-"f(x)" 
+ "f(x)",
+"log10[abs(grad)]" 
 ],
 "top": [
  "",
@@ -2594,7 +2594,7 @@
  "PANEL": [ "1", "2" ],
 "ROW": [ 1, 2 ],
 "COL": [ 1, 1 ],
-"yvar": [ "f'(x)", "f(x)" ],
+"yvar": [ "f(x)", "log10[abs(grad)]" ],
 "SCALE_X": [ 1, 1 ],
 "SCALE_Y": [ 1, 2 ],
 "AXIS_Y": [ true, true ],
@@ -2644,17 +2644,17 @@
 ],
 "y": [
  [
-      -15,
-     -10,
-      -5,
-       0 
-],
-[
        -2,
       -1,
        0,
        1,
        2 
+],
+[
+      -15,
+     -10,
+      -5,
+       0 
 ] 
 ] 
 } 
@@ -2713,15 +2713,6 @@
 ],
 "y": [
  [
-      -15,
-   -12.5,
-     -10,
-    -7.5,
-      -5,
-    -2.5,
-       0 
-],
-[
        -2,
     -1.5,
       -1,
@@ -2731,55 +2722,20 @@
        1,
      1.5,
        2 
+],
+[
+      -15,
+   -12.5,
+     -10,
+    -7.5,
+      -5,
+    -2.5,
+       0 
 ] 
 ] 
 } 
 },
 "axis1": {
- "x": [
-        1,
-       2,
-       3,
-       4,
-       5,
-       6,
-       7,
-       8,
-       9,
-      10 
-],
-"xlab": [
- "1",
-"2",
-"3",
-"4",
-"5",
-"6",
-"7",
-"8",
-"9",
-"10" 
-],
-"xrange": [ 0.3833333, 10.28333 ],
-"xline": true,
-"xticks": true,
-"y": [
-      -15,
-     -10,
-      -5,
-       0 
-],
-"ylab": [
- "-15",
-"-10",
-"-5",
-"0" 
-],
-"yrange": [ -17.02368, 0.8106372 ],
-"yline": true,
-"yticks": true 
-},
-"axis2": {
  "x": [
         1,
        2,
@@ -2825,6 +2781,50 @@
 "yline": true,
 "yticks": true 
 },
+"axis2": {
+ "x": [
+        1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7,
+       8,
+       9,
+      10 
+],
+"xlab": [
+ "1",
+"2",
+"3",
+"4",
+"5",
+"6",
+"7",
+"8",
+"9",
+"10" 
+],
+"xrange": [ 0.3833333, 10.28333 ],
+"xline": true,
+"xticks": true,
+"y": [
+      -15,
+     -10,
+      -5,
+       0 
+],
+"ylab": [
+ "-15",
+"-10",
+"-5",
+"0" 
+],
+"yrange": [ -17.02367, 0.8106365 ],
+"yline": true,
+"yticks": true 
+},
 "xtitle": "Iteration",
 "strip_text_xsize": "11pt",
 "xsize": "11pt",
@@ -2848,14 +2848,14 @@
 "10" 
 ],
 "ylabs": [
- "-15",
-"-10",
-"-5",
-"0",
-"-2",
+ "-2",
 "-1",
+"0",
 "1",
-"2" 
+"2",
+"-15",
+"-10",
+"-5" 
 ],
 "title": "Select optimization iteration",
 "title_size": "13.2pt",
